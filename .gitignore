@@ -1,0 +1,22 @@
+# build outputs
+obj/
+xmrasm.exe
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# runtime logs
+run*.txt
+disasm.txt
+*.log
+
+# editors / OS
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
